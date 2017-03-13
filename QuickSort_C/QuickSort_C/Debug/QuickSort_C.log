@@ -1,0 +1,4 @@
+﻿  QuickSort.c
+c:\users\eana0614\documents\visual studio 2015\projects\quicksort_c\quicksort_c\rwchead.h(4): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  QuickSort_C.vcxproj -> c:\users\eana0614\documents\visual studio 2015\Projects\QuickSort_C\Debug\QuickSort_C.exe
+  QuickSort_C.vcxproj -> c:\users\eana0614\documents\visual studio 2015\Projects\QuickSort_C\Debug\QuickSort_C.pdb (Full PDB)
